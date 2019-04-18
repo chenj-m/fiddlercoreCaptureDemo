@@ -1,0 +1,12 @@
+D:\FiddlerCoreAPI\SampleApp\bin\Debug\Demo.exe.config
+D:\FiddlerCoreAPI\SampleApp\bin\Debug\Demo.exe
+D:\FiddlerCoreAPI\SampleApp\bin\Debug\Demo.pdb
+D:\FiddlerCoreAPI\SampleApp\bin\Debug\FiddlerCore4.dll
+D:\FiddlerCoreAPI\SampleApp\bin\Debug\Telerik.NetworkConnections.dll
+D:\FiddlerCoreAPI\SampleApp\bin\Debug\FiddlerCore4.pdb
+D:\FiddlerCoreAPI\SampleApp\bin\Debug\FiddlerCore4.xml
+D:\FiddlerCoreAPI\SampleApp\obj\Debug\Demo.csprojAssemblyReference.cache
+D:\FiddlerCoreAPI\SampleApp\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\FiddlerCoreAPI\SampleApp\obj\Debug\Demo.csproj.CopyComplete
+D:\FiddlerCoreAPI\SampleApp\obj\Debug\Demo.exe
+D:\FiddlerCoreAPI\SampleApp\obj\Debug\Demo.pdb
